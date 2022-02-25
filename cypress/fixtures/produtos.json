@@ -1,0 +1,26 @@
+[
+    {
+        "produto": "Abominable Hoodie",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 1
+    },
+    {
+        "produto": "Aero Daily Fitness Tee",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    {
+        "produto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Red",
+        "quantidade": 1
+    },
+    {
+        "produto": "Aether Gym Pant",
+        "tamanho": "32",
+        "cor": "Blue",
+        "quantidade": 1
+    }
+]
